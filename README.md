@@ -1,2 +1,3 @@
-#Odin Recipes
-Demostrating basic html and git knowledge
+### Odin Recipes
+
+- Demonstratie basic html and git knowledge
